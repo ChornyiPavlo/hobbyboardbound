@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://hobbyboardbound.com/sitemap.xml
+Host: hobbyboardbound.com
